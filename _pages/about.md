@@ -14,7 +14,7 @@ My research insterest focus Fine-grained recognition, data synthesis, biomarker 
 News
 ======
 * Nov 2025 [One Paper](https://doi.org/10.1016/j.media.2025.103867) has been published to Medical Image Analysis (**IF 11.8**)
-* Jul 2025 [One Chapter](https://doi.org/10.1007/978-3-031-89963-8_6) has been published on Magzine Trustworthy AI in Cancer Imaging Research
+* Jul 2025 [One Chapter](https://doi.org/10.1007/978-3-031-89963-8_6) has been published by Springer Nature.
 * Jul 2025 [One Paper](https://doi.org/10.1016/j.media.2025.103604) has been published on Medical Image Analysis (**IF 11.8**)
 * Jun 2025 [One Paper](https://doi.org/10.1183/13993003.00981-2025 ) has been published on European Respiratory Journal (**IF 21**)
 * Apr 2025 [One Paper](https://doi.org/10.1109/TNNLS.2025.3558857) has been published on IEEE TNNLS (**IF 8.9**)
@@ -29,6 +29,7 @@ News
 * Feb 2024 [One Paper](https://doi.org/10.1109/JBHI.2024.3370502) has been published on IEEE JBHI (**IF 7.0**)
 * Oct 2023 [One Paper](https://doi.org/10.1007/978-3-031-43904-9_2) has been accepted to MICCAI 2023
 * Jun 2023 [One Paper](https://doi.org/10.1109/JBHI.2023.3290136) has been published on IEEE JBHI (**IF 7.0**)
+* May 2023 We held the MICCAI 2023 challenge [AIIB23](https://codalab.lisn.upsaclay.fr/competitions/13238)
 * May 2023 [One Paper](https://doi.org/10.1109/TNNLS.2023.3269223) has been published on IEEE TNNLS (**IF 8.9**)
 * May 2023 [One Paper](https://doi.org/10.1016/j.compbiomed.2022.106241) has been published on Computers in Biology and Medicine (**IF 6.3**)
 * Jul 2022 [One Paper](https://doi.org/10.1109/TMI.2022.3195123) has been published on IEEE TMI (**IF 10.6**)
