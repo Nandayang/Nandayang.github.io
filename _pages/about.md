@@ -31,6 +31,17 @@ Working Experience
 | Honorary Observer | Royal Brompton Hospital  | 2023 — 2024  |
 | Senior algorithm engineer | Ping An Healthcare Technology, Shanghai | 2018 — 2020  |
 
+Grants
+======
+
+| Funds | Role |
+| OpenAI Researcher Access Program (0000005284) | PI |
+| UKRI Gateway Route (AIRR-GW, 2025-07-17) | PI |
+| Horizon 2020 (CHAIMELEON 952172) | Researcher |
+| EU Research Council,IMI-DRAGON (101005122) | Researcher |
+| NSFC (国自然面上 82070793) | Researcher |
+
+
 Awards
 ======
 
