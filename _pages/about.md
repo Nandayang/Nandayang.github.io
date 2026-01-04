@@ -1,11 +1,22 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "👨‍🔬 About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+I'm currently a Research Associate at [Imperial College London] (Apr 2024 – present). I earned my PhD at Imperial College London (Jan 2021 – Aug 2024), during which I also served as an Honorary Observer at the Royal Brompton and Harefield Hospital (Nov 2023 – May 2024). Prior to my doctoral studies, I worked as a Senior Algorithm Engineer at Ping An Healthcare Technology (Jul 2018 – Nov 2020), where I gained extensive experience in developing clinical AI algorithms for large-scale healthcare applications. My research stands at the AI & Digital Healthcare, with a specific focus on developing robust, interpretable, and accurate AI systems for biomedical research.
+
+Education
+======
+| Degree | Institution | Year |
+| :--- | :--- | :--- |
+| **PhD** | Imperial College London, Department of Bioengineering | [cite_start]2023 — 2024  |
+| **PhD** | Imperial College London, National Heart and Lung Institute | [cite_start]2021 — 2023  |
+| **MEng** | Hunan University, College of Electrical and Information Engineering | [cite_start]2016 — 2018  |
+| **BEng** | Hunan University, College of Electrical and Information Engineering | [cite_start]2012 — 2016  |
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
