@@ -13,28 +13,28 @@ My research insterest focus Fine-grained recognition, data synthesis, biomarker 
 
 News
 ======
-* **Nov 2025** [One Paper](https://www.sciencedirect.com/science/article/pii/S136184152500413X) has been published to Medical Image Analysis (**IF 11.8**)
-* **Jul 2025** [One Chapter](https://link.springer.com/chapter/10.1007/978-3-031-89963-8_6) has been published on Magzine Trustworthy AI in Cancer Imaging Research
-* **Jul 2025** [One Paper](https://doi.org/10.1016/j.media.2025.103604) has been published on Medical Image Analysis (**IF 11.8**)
-* **Jun 2025** [One Paper](https://publications.ersnet.org/content/erj/66/4/2500981.abstract) has been published on European Respiratory Journal (**IF 21**)
-* **Apr 2025** [One Paper](https://ieeexplore.ieee.org/abstract/document/10976244) has been published on IEEE TNNLS (**IF 8.9**)
-* **Mar 2025** [One Paper](https://www.sciencedirect.com/science/article/pii/S1361841525001008) has been published on Medical Image Analysis (**IF 11.8**)
-* **Feb 2025** [One Paper](https://www.nature.com/articles/s42256-025-00984-1) has been published on Nature Machine Intelligence (**IF 31.8**)
-* **Jan 2025** [One Paper](https://www.sciencedirect.com/science/article/pii/S1361841524002597) has been published on Medical Image Analysis (**IF 11.8**)
-* **Oct 2024** [One Paper](https://link.springer.com/chapter/10.1007/978-3-031-72114-4_29) has been accepted to MICCAI 2024
-* **Oct 2024** [One Paper](https://www.sciencedirect.com/science/article/pii/S1361841524001786) has been published on Medical Image Analysis (**IF 11.8**)
-* **Oct 2024** [One Paper](https://www.sciencedirect.com/science/article/pii/S0031320324003558) has been published on Pattern Recognition (**IF 7.6**)
-* **Aug 2024** [One Paper](https://www.sciencedirect.com/science/article/pii/S0933365724001726) has been published on Artificial Intelligence in Medicine (**IF 6.2**)
-* **Jul 2024** [One Paper](https://ieeexplore.ieee.org/abstract/document/10609512) has been published on IEEE TFS (**IF 11.9**)
-* **Feb 2024** [One Paper](https://ieeexplore.ieee.org/abstract/document/10448529) has been published on IEEE JBHI (**IF 7.0**)
-* **Oct 2023** [One Paper](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_2) has been accepted to MICCAI 2023
-* **Jun 2023** [One Paper](https://ieeexplore.ieee.org/abstract/document/10167740) has been published on IEEE JBHI (**IF 7.0**)
-* **May 2023** [One Paper](https://ieeexplore.ieee.org/abstract/document/10129972) has been published on IEEE TNNLS (**IF 8.9**)
-* **May 2023** [One Paper](https://www.sciencedirect.com/science/article/pii/S0010482522009490) has been published on Computers in Biology and Medicine (**IF 6.3**)
-* **Jul 2022** [One Paper](https://ieeexplore.ieee.org/abstract/document/9844771) has been published on IEEE TMI (**IF 10.6**)
-* **Jun 2022** [One Paper](https://www.sciencedirect.com/science/article/pii/S156625352200015X) has been published on Information Fusion (**IF 18.6**)
-* **Mar 2022** [One Paper](https://www.sciencedirect.com/science/article/pii/S0031320322001297) has been published on Pattern Recognition (**IF 8.0**)
-* **Feb 2022** [One Paper](https://www.sciencedirect.com/science/article/pii/S1361841521003522) has been published on Medical Image Analysis (**IF 10.9**)
+* Nov 2025 [One Paper](https://doi.org/10.1016/j.media.2025.103867) has been published to Medical Image Analysis (**IF 11.8**)
+* Jul 2025 [One Chapter](https://doi.org/10.1007/978-3-031-89963-8_6) has been published on Magzine Trustworthy AI in Cancer Imaging Research
+* Jul 2025 [One Paper](https://doi.org/10.1016/j.media.2025.103604) has been published on Medical Image Analysis (**IF 11.8**)
+* Jun 2025 [One Paper](https://doi.org/10.1183/13993003.00981-2025 ) has been published on European Respiratory Journal (**IF 21**)
+* Apr 2025 [One Paper](https://doi.org/10.1109/TNNLS.2025.3558857) has been published on IEEE TNNLS (**IF 8.9**)
+* Mar 2025 [One Paper](https://doi.org/10.1016/j.media.2025.103553) has been published on Medical Image Analysis (**IF 11.8**)
+* Feb 2025 [One Paper](https://doi.org/10.1038/s42256-025-00984-1) has been published on Nature Machine Intelligence (**IF 31.8**)
+* Jan 2025 [One Paper](https://doi.org/10.1016/j.media.2024.103334) has been published on Medical Image Analysis (**IF 11.8**)
+* Oct 2024 [One Paper](https://doi.org/10.1007/978-3-031-72114-4_29) has been accepted to MICCAI 2024
+* Oct 2024 [One Paper](https://doi.org/10.1016/j.media.2024.103253) has been published on Medical Image Analysis (**IF 11.8**)
+* Oct 2024 [One Paper](https://doi.org/10.1016/j.patcog.2024.110604) has been published on Pattern Recognition (**IF 7.6**)
+* Aug 2024 [One Paper](https://doi.org/10.1016/j.artmed.2024.102930) has been published on Artificial Intelligence in Medicine (**IF 6.2**)
+* Jul 2024 [One Paper](https://doi.org/10.1109/TFUZZ.2024.3433506) has been published on IEEE TFS (**IF 11.9**)
+* Feb 2024 [One Paper](https://doi.org/10.1109/JBHI.2024.3370502) has been published on IEEE JBHI (**IF 7.0**)
+* Oct 2023 [One Paper](https://doi.org/10.1007/978-3-031-43904-9_2) has been accepted to MICCAI 2023
+* Jun 2023 [One Paper](https://doi.org/10.1109/JBHI.2023.3290136) has been published on IEEE JBHI (**IF 7.0**)
+* May 2023 [One Paper](https://doi.org/10.1109/TNNLS.2023.3269223) has been published on IEEE TNNLS (**IF 8.9**)
+* May 2023 [One Paper](https://doi.org/10.1016/j.compbiomed.2022.106241) has been published on Computers in Biology and Medicine (**IF 6.3**)
+* Jul 2022 [One Paper](https://doi.org/10.1109/TMI.2022.3195123) has been published on IEEE TMI (**IF 10.6**)
+* Jun 2022 [One Paper](https://doi.org/10.1016/j.inffus.2022.01.001) has been published on Information Fusion (**IF 18.6**)
+* Mar 2022 [One Paper](https://doi.org/10.1016/j.patcog.2022.108648) has been published on Pattern Recognition (**IF 8.0**)
+* Feb 2022 [One Paper](https://doi.org/10.1016/j.media.2021.102307) has been published on Medical Image Analysis (**IF 10.9**)
 
 Education
 ======
