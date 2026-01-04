@@ -11,6 +11,7 @@ I'm currently a Research Associate at [Imperial College London] (Apr 2024 – pr
 
 Education
 ======
+
 | Degree | Institution | Year |
 | :--- | :--- | :--- |
 | **PhD** | Imperial College London, Department of Bioengineering | [cite_start]2023 — 2024  |
